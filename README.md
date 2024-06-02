@@ -1,5 +1,5 @@
 # Gmail-Clone
-##Gmail Clone Project Overview:
+Gmail Clone Project Overview:
 This Python project emulates basic functionalities of an email client like Gmail. 
 Key features include:
 1. Account Creation and Login:Users can create accounts with a unique email address and password. They can log in securely to access their mailbox.
